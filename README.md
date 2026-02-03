@@ -1,7 +1,7 @@
 # Juan "書工" Jin
 
-> A humble system software engineer working with Linux distros, Zephyr, and IoT.
-> Learning by building, breaking, and documenting along the way.
+A humble system software engineer working with Linux distros, Zephyr, and IoT.
+Learning by building, breaking, and documenting along the way.
 
 ---
 
