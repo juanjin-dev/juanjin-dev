@@ -1,4 +1,4 @@
-# JaeHwan Jin
+# 陳載煥
 
 ![mental-model](./mental-model.svg)
 
