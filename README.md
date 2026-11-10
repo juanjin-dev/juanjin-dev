@@ -1,5 +1,7 @@
 # Juan Jin
 
+![mental-model](./mental-model.svg)
+
 ## About
 
 A humble system software engineer working with Linux distros, Zephyr, and IoT.
