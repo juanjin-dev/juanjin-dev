@@ -1,4 +1,4 @@
-# Juan Jin
+# JaeHwan Jin
 
 ![mental-model](./mental-model.svg)
 
